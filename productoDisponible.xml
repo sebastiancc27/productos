@@ -1,0 +1,7 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <ProductoDisponibleRequest xmlns="t4is.uv.mx/saludos">
+            <idproducto>[int]</idproducto>
+        </ProductoDisponibleRequest>
+    </Body>
+</Envelope>

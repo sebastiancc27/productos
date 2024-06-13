@@ -1,0 +1,5 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <HistorialProductosRequest xmlns="t4is.uv.mx/saludos">[any]</HistorialProductosRequest>
+    </Body>
+</Envelope>
